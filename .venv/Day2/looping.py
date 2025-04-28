@@ -71,6 +71,19 @@ from math import factorial
 #     print(i)
 
 #decensing order:
+#
+# for i in range(10,0,-1):
+#     print(i)
+#
+#
+# for i in range(1,10):
+#     if i == 5:
+#         break
+#     print(i)
+# print("program exited!!!")
 
-for i in range(10,0,-1):
-    print(i)
+# for i in range(0,20,2):
+#     if (i==10) or (i==14):
+#         continue
+#     print(i)
+# print("program exited!!!")
